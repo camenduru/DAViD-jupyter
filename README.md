@@ -18,3 +18,5 @@ https://arxiv.org/abs/2507.15365
 https://microsoft.github.io/DAViD/
 
 ### 🖼 Output
+
+<img width="2468" height="933" alt="Image" src="https://github.com/user-attachments/assets/80bd570b-a5f1-4d2c-bd2f-4d8601b150f2" />
